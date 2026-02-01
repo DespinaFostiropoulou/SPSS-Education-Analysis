@@ -92,8 +92,20 @@ are associated with:
    -  presentations
 
 ---
+## 📎 Appendix
 
-## 📸 Visual Outputs
+### 📄 Full Research Report
+You can access the complete study here:
+
+👉 [**Click to view the full research report (PDF)**](research_report.pdf)
+
+
+### 📄 Questionnaire
+[**Click here to view the questionnaire (PDF)**](questionnaire.pdf)
+
+---
+
+### 📸 Visual Outputs
 
 Below are selected screenshots from the SPSS analysis, including descriptive statistics, cross-tabulations, and Chi-Square test results.
 
@@ -116,6 +128,3 @@ Below are selected screenshots from the SPSS analysis, including descriptive sta
 </p>
 
 ---
-
-### 📄 Questionnaire
-[**Click here to view the questionnaire (PDF)**](questionnaire.pdf)
