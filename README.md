@@ -3,7 +3,7 @@
 This repository showcases a complete **data analysis project** focused on the use of Information and Communication Technologies (ICT) by primary school teachers.  
 The project demonstrates skills in **quantitative research**, **statistical analysis**, **SPSS syntax**, and **data-driven reporting**.
 
-This work was originally completed as part of a postgraduate program in *Special Education & Training* (University of Patras, 2022).
+This work was originally completed as part of a postgraduate program in *Special Education & Teaching* (University of Patras, 2022).
 
 ---
 
@@ -93,4 +93,15 @@ are associated with:
 
 ---
 
+## 📸 Visual Outputs
+
+Below are selected screenshots from the SPSS analysis, including frequency tables, cross-tabulations, and Chi-Square test results.
+
+<p align="center">
+  <img src="images/descriptive_stats.png" width="700">
+</p>
+
+<p align="center">
+  <img src="images/chi_square_output.png" width="700">
+</p>
 
